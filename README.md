@@ -1,74 +1,72 @@
-<!--Banner-->
-![Kiran1689 Banner Image](https://i.imgur.com/GmJHo6Y.png)
-
-<!--Night Owl image-->
-
-
-<!--Header Name-->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Regente+de+Farmacia;+Técnica+en+Sistemas;+Software+Developer+Student;☁️+Cloud+Enthusiast;🛡️+Cybersecurity+Future" alt="Typing SVG" />
+  <img src="https://i.imgur.com/GmJHo6Y.png" alt="Banner" width="100%" />
 </div>
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">Soy una apasionada de la tecnología con un perfil híbrido único, combinando la precisión de la <strong>Regencia de Farmacia</strong> con la innovación de la <strong>Ingeniería de Sistemas</strong>. Actualmente me enfoco en el desarrollo de software seguro y la arquitectura Cloud, buscando crear soluciones que impacten positivamente en el sector salud.
-
-* ✦ **Aprendizaje Continuo** | Evolucionando cada día a través de la curiosidad y el código.
-* ✦ **Formación Técnica** | Regente de farmacia, Tecnica de sistemas, Tecnica de Desarrollo de Software en Campusland y estudiante de Ingeniería de Sistemas.
-* ✦ **Especialización** | Profundizando en fundamentos de Ciberseguridad y servicios en la Nube.
-* ✦ **Comunicación** | Fortaleciendo mis habilidades de Inglés hacia un nivel profesional C1.
-* ✦ **Propósito** | Uniendo la salud y la tecnología para construir un futuro digital más seguro.
-<!--End Intro-->
-
-
-<br /><br />
-
----
+<br />
 <div align="center">
-  <h1> Ecosistema Tecnológico</h1>
-  <br />
-  <img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,django,aws,docker,linux,git,vscode,github,figma&theme=dark" alt="Tecnologías" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Regente+de+Farmacia;T%C3%A9cnica+en+Sistemas;Software+Developer+Student;%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Future" alt="Typing SVG" />
 </div>
 
+
+##  Sobre Mí
+
+Soy una apasionada de la tecnología con un perfil híbrido único. Mi misión es fusionar la precisión de la **Regencia de Farmacia** con la potencia de la **Ingeniería de Sistemas**. Actualmente, me formo intensamente en **Campusland** y **Uniciencia**, enfocándome en el desarrollo de soluciones seguras y escalables, especialmente para el sector **HealthTech**.
+
+*  **Actualmente trabajando en:** Proyectos de lógica de programación y gestión de datos con Python.
+*  **Aprendiendo activamente:** Java, SQL y profundizando en Arquitectura Cloud (AWS).
+*  **Hablemos sobre:** Python, Ciberseguridad y cómo la tecnología transforma la salud.
+*  **Dato curioso:** Mi meta es el nivel **C1 de Inglés** para conectar con equipos globales.
 
 <br />
 
-<br /><br />
+##                        Ecosistema Tecnológico
 
----
-
-<div align="center">
-  <h1> Objetivos en el Horizonte</h1>
+### Lenguajes y Herramientas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,git,github,vscode,linux&theme=dark" alt="Tecnologías Actuales" />
 </div>
 
-* ☁️ **Cloud Architecture:** Certificarme en AWS Cloud Practitioner.
-* 🛡️ **Cybersecurity:** Finalizar mi diplomado y realizar laboratorios de pentesting.
-* 🇺🇸 **English Journey:** Alcanzar el nivel C1 para expandir mis horizontes profesionales.
-* 🎓 **Ingeniería:** Avanzar con éxito en mi formación académica en Uniciencia.
-<br /><br />
+### En Camino (Próximamente)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,aws,docker&theme=dark" alt="Aprendiendo" />
+</div>
 
 <br />
+
 ---
+
+##  Proyectos Destacados
+* **[Control de Gastos Python](tu-link-aqui):** Aplicación de escritorio para gestión financiera personal con persistencia en JSON.
+* **[Laboratorios de Lógica](tu-link-aqui):** Colección de algoritmos y retos resueltos durante mi formación en Campusland.
+
+<br />
+
+## 📊 Estadísticas y Actividad
+
 <div align="center">
-  <h1>📈 Actividad en GitHub</h1>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaxcaicedo303-prog&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxcaicedo303-prog&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaxcaicedo303-prog&show_icons=true&theme=transparent&text_color=ffffff&title_color=61dafb&icon_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxcaicedo303-prog&layout=compact&theme=transparent&text_color=ffffff&title_color=61dafb&hide_border=true" alt="Top Languages" />
 </div>
 
-<br /><br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisaxcaicedo303-prog&theme=transparent&hide_border=true&stroke=ffffff&ring=61dafb&fire=61dafb&currStreakNum=ffffff" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-user-contents.githubusercontent.com/60451104/145453088-7578272f-5f09-40da-8007-8e682ef10842.gif" width="600" alt="Snake" />
+</div>
+
+<br />
 
 ---
-<div align="center">
-  <h1>📫 Hablemos</h1>
-  <p>¡Siempre estoy abierta a colaborar en proyectos de <b>HealthTech</b> o <b>Ciberseguridad</b>!</p>
-  
+
+## 📫 Conectemos
+<div align="left">
   <a href="mailto:luisaxcaicedo303@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/search/results/all/?keywords=luisa%20fernanda%20caicedo%20florez">
+  <a href="https://www.linkedin.com/in/luisa-fernanda-caicedo-florez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br />

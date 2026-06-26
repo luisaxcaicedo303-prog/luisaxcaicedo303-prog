@@ -13,12 +13,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy una apasionada de la tecnología con un perfil híbrido único. Mi misión es fusionar la precisión de la **Regencia de Farmacia** con la potencia de la **Ingeniería de Sistemas**. Actualmente, me formo intensamente en **Campusland** y **Uniciencia**, enfocándome en el desarrollo de soluciones seguras y escalables, especialmente para el sector **HealthTech**.
-
-*  **Actualmente trabajando en:** Proyectos de lógica de programación y gestión de datos con Python.
-*  **Aprendiendo activamente:** Java, SQL y profundizando en Arquitectura Cloud (AWS).
-* **Hablemos sobre:** Python, Ciberseguridad y cómo la tecnología transforma la salud.
-*  **Dato curioso:** Mi meta es el nivel **C1 de Inglés** para conectar con equipos globales.
+### Dejo mucho mis cuentas abiertas deberia cambiar esto, no se por que las dejo abiertas en 10 computadores diferentes todos los dias y como dato curioso puedes encontrar mi cuenta en 1 de cada 2 computadores :)S
 
 <br />
 

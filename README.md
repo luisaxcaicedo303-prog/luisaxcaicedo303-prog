@@ -1,60 +1,60 @@
 <div align="center">
 
-# Hi, I'm Luisa Fernanda 👋🏻
+# ¡Hola! Soy Luisa Fernanda 👋🏻
 
-### Junior Full Stack Developer
+### Desarrolladora Full Stack Junior
 
-Building digital solutions, learning continuously and turning ideas into code.
+Construyo soluciones digitales, aprendo constantemente y convierto ideas en código.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E5AA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-19161D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisaxcaicedo303-prog)
-[![Email](https://img.shields.io/badge/Email-C77DDC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@example.com)
+[![Correo](https://img.shields.io/badge/Correo-C77DDC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisaxcaicedo303@gmail.com)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 Sobre mí
 
-I'm **Luisa Fernanda Caicedo**, a Systems Engineering student and Software Development Technician in training, focused on **Full Stack development**.
+Soy **Luisa Fernanda Caicedo**, estudiante de Ingeniería de Sistemas y del Técnico en Desarrollo de Software, enfocada en el desarrollo **Full Stack**.
 
-I enjoy building practical solutions, working with databases and exploring cloud technologies. I'm particularly interested in understanding how different parts of a software solution connect — from the interface to the backend, database and infrastructure.
+Me gusta construir soluciones prácticas, trabajar con bases de datos y explorar tecnologías relacionadas con la nube. Me interesa entender cómo se conectan las diferentes partes de una solución de software: desde la interfaz y el backend hasta las bases de datos y la infraestructura.
 
-I'm constantly learning through projects, experimentation and hands-on development.
+Mi aprendizaje está basado principalmente en la práctica, la creación de proyectos y la búsqueda constante de nuevas formas de mejorar mis habilidades.
 
-- 💻 Focused on **Full Stack Development**
-- 🗄️ Interested in **Databases**
-- ☁️ Exploring **Cloud Computing & AWS**
-- ⚙️ Interested in **Automation**
-- 🐳 Learning and working with **Docker**
-- 📚 Currently preparing for **AWS Certified Cloud Practitioner**
+- 💻 Enfocada en **Desarrollo Full Stack**
+- 🗄️ Interesada en **Bases de Datos**
+- ☁️ Explorando **Cloud Computing y AWS**
+- ⚙️ Interesada en **Automatización**
+- 🐳 Trabajando con **Docker**
+- 📚 Preparándome para **AWS Certified Cloud Practitioner**
 - 📍 Bucaramanga, Colombia
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
-### Languages & Web
+### Lenguajes y desarrollo web
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### Databases
+### Bases de datos
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### Tools & Cloud
+### Herramientas y Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
 </p>
 
-### Automation
+### Automatización
 
 <p>
 
@@ -64,84 +64,102 @@ I'm constantly learning through projects, experimentation and hands-on developme
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
-### 💰 Cost Estimator
+### 💰 CostEstimator
 
-A web project focused on estimating costs through a simple and practical interface.
+Proyecto web enfocado en la estimación de costos mediante una interfaz sencilla y práctica.
 
-**Technologies:** CSS · Web Development
+**Tecnologías:** CSS · Desarrollo Web
 
-[🔗 View Repository](https://github.com/luisaxcaicedo303-prog/CostEstimator)
-
----
-
-### ⚙️ Automation Projects
-
-Projects focused on workflow automation, process optimization and connecting different services through APIs.
-
-**Technologies:** n8n · APIs · Automation
-
-> More projects coming soon.
+[🔗 Ver repositorio](https://github.com/luisaxcaicedo303-prog/CostEstimator)
 
 ---
 
-### 🗄️ Database Projects
+### ⚙️ Automatización de procesos
 
-Projects focused on data organization, relational databases, queries and backend logic.
+Proyectos enfocados en la automatización de tareas y procesos mediante herramientas digitales, workflows y conexión entre diferentes servicios.
 
-**Technologies:** SQL · MySQL · PostgreSQL
+**Tecnologías:** n8n · APIs · Automatización
 
-> More projects coming soon.
-
----
-
-## 🎓 Education
-
-**Systems Engineering**  
-Currently studying
-
-**Software Development Technician**  
-Campuslands · Floridablanca
-
-**Systems Technician**  
-SENA
+> Próximamente agregaré más proyectos.
 
 ---
 
-## 💼 Previous Experience
+### 🗄️ Proyectos con bases de datos
 
-My previous professional experience has helped me develop skills that I now apply to technology:
+Proyectos enfocados en la organización de información, consultas, bases de datos relacionales y lógica para el manejo de datos.
 
-- **Hospital Pharmacy Manager — FOSUNAB**
-  - Process management
-  - Inventory control
-  - Attention to detail
-  - Compliance with procedures
+**Tecnologías:** SQL · MySQL · PostgreSQL
 
-- **Customer Service Agent — Xtendo**
-  - Problem solving
-  - Customer support
-  - Communication
-  - PQRS management
-
-- **Sales Advisor — Atento**
-  - Customer interaction
-  - Communication
-  - Sales
-  - Telecommunications services
+> Próximamente agregaré más proyectos.
 
 ---
 
-## 🧠 Soft Skills
+## 🎓 Educación
 
-`Leadership` · `Creativity` · `Empathy` · `Discipline`
+### Ingeniería de Sistemas
+**Actualmente en curso**
 
-`Adaptability` · `Patience` · `Proactivity` · `Communication`
+Formación enfocada en programación, tecnología, desarrollo de software y sistemas.
+
+### Técnico en Desarrollo de Software
+**Campuslands · Floridablanca**
+
+Formación enfocada en desarrollo de software y programación.
+
+### Técnico de Sistemas
+**SENA**
+
+Formación técnica en sistemas y tecnología.
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Experiencia
+
+Mi experiencia profesional también me ha permitido desarrollar habilidades que actualmente aplico en el área tecnológica.
+
+### 🏥 FOSUNAB
+**Regente de Farmacia Hospitalaria**  
+2025 — 2026
+
+- Gestión de procesos.
+- Control de inventarios.
+- Organización y manejo de información.
+- Atención al detalle.
+- Cumplimiento de procedimientos.
+
+### 💬 Xtendo
+**Agente de Servicio al Cliente**  
+2024 — 2025
+
+- Resolución de solicitudes y PQRS.
+- Atención al usuario.
+- Comunicación efectiva.
+- Resolución de problemas.
+- Gestión de información.
+
+### 📞 Atento
+**Asesora Comercial**  
+2022 — 2023
+
+- Atención al cliente.
+- Comunicación.
+- Ventas.
+- Servicios de telecomunicaciones.
+- Asesoría de soluciones de conectividad.
+
+---
+
+## 🧠 Habilidades
+
+`Liderazgo` · `Creatividad` · `Empatía` · `Disciplina`
+
+`Adaptabilidad` · `Paciencia` · `Proactividad` · `Comunicación`
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
@@ -153,15 +171,15 @@ My previous professional experience has helped me develop skills that I now appl
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Actualmente aprendiendo
 
 ```text
-Full Stack Development
+Desarrollo Full Stack
         ↓
-Databases
+Bases de Datos
         ↓
 Cloud Computing
         ↓
 AWS
         ↓
-Automation
+Automatización

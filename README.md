@@ -30,31 +30,22 @@ Me interesa especialmente crear soluciones que sean **útiles, organizadas, esca
 <div align="center">
 
 ### 💻 Desarrollo
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=8" />
-
-<br><br>
-
+<br>
 ### 🗄️ Bases de datos
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
 
-<br><br>
+<br>
 
 ### ⚙️ Herramientas
-
 <img src="https://skillicons.dev/icons?i=git,github,docker&perline=8" />
 
-<br><br>
-
+<br>
 ### ☁️ Cloud & Automatización
-
 <img src="https://skillicons.dev/icons?i=aws&perline=8" />
 
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/n8n-Automation-FF4F8B?style=for-the-badge&logo=n8n&logoColor=white">
-
 </div>
 
 ---

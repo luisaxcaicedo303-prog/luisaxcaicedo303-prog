@@ -88,51 +88,6 @@ Una parte importante de mi aprendizaje consiste en convertir conceptos de progra
 <a href="https://github.com/luisaxcaicedo303-prog/CostEstimator">
 <img src="https://img.shields.io/badge/Ver%20proyecto-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
----
-
-## 🐍 Actividad
-
-Repositorio enfocado en ejercicios y práctica de programación.
-
-<div align="center">
-
-<a href="https://github.com/luisaxcaicedo303-prog/actividad">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luisaxcaicedo303-prog&repo=actividad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=C084FC&text_color=E9D5FF" />
-
-</a>
-
-</div>
-
-**Tecnología principal:**
-
-`Python`
-
-<a href="https://github.com/luisaxcaicedo303-prog/actividad">
-<img src="https://img.shields.io/badge/Ver%20repositorio-18181B?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
----
-
-## ✈️ Catálogo de Viajes
-
-Proyecto relacionado con la creación de un catálogo de viajes.
-
-<div align="center">
-
-<a href="https://github.com/luisaxcaicedo303-prog/catalogodeviajes">
-
-<img src="https://img.shields.io/badge/Cat%C3%A1logo%20de%20Viajes-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</div>
-
-<a href="https://github.com/luisaxcaicedo303-prog/catalogodeviajes">
-<img src="https://img.shields.io/badge/Ver%20proyecto-18181B?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 ---
 
 ## 📂 MÁS PROYECTOS

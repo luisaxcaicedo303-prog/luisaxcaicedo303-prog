@@ -1,185 +1,323 @@
 <div align="center">
 
-# ¡Hola! Soy Luisa Fernanda 👋🏻
+# ✦ LUISA FERNANDA CAICEDO ✦
 
-### Desarrolladora Full Stack Junior
+### `Desarrolladora Full Stack Junior`
 
-Construyo soluciones digitales, aprendo constantemente y convierto ideas en código.
+**Desarrollo · Bases de datos · Cloud · Automatización**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E5AA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-19161D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisaxcaicedo303-prog)
-[![Correo](https://img.shields.io/badge/Correo-C77DDC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisaxcaicedo303@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E5AA8,50:C77DDC,100:F2C6E8&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 Sobre mí
+<div align="center">
 
-Soy **Luisa Fernanda Caicedo**, estudiante de Ingeniería de Sistemas y del Técnico en Desarrollo de Software, enfocada en el desarrollo **Full Stack**.
+### 👩🏻‍💻 Un poco sobre mí
 
-Me gusta construir soluciones prácticas, trabajar con bases de datos y explorar tecnologías relacionadas con la nube. Me interesa entender cómo se conectan las diferentes partes de una solución de software: desde la interfaz y el backend hasta las bases de datos y la infraestructura.
+</div>
 
-Mi aprendizaje está basado principalmente en la práctica, la creación de proyectos y la búsqueda constante de nuevas formas de mejorar mis habilidades.
+Soy **Luisa Fernanda Caicedo**, estudiante de **Ingeniería de Sistemas** y de **Desarrollo de Software**, enfocada en crecer profesionalmente en el área de tecnología y desarrollo **Full Stack**.
 
-- 💻 Enfocada en **Desarrollo Full Stack**
-- 🗄️ Interesada en **Bases de Datos**
-- ☁️ Explorando **Cloud Computing y AWS**
-- ⚙️ Interesada en **Automatización**
-- 🐳 Trabajando con **Docker**
-- 📚 Preparándome para **AWS Certified Cloud Practitioner**
-- 📍 Bucaramanga, Colombia
+Me gusta aprender mediante proyectos y enfrentar problemas buscando soluciones prácticas. Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, bases de datos, automatización y tecnologías cloud.
+
+📍 **Bucaramanga, Colombia**
+
+☁️ Explorando **AWS**
+
+🗄️ Interesada en **bases de datos**
+
+⚙️ Apasionada por la **automatización**
+
+💻 Enfocada en **desarrollo Full Stack**
 
 ---
 
-## 🛠️ Tecnologías
+<div align="center">
 
-### Lenguajes y desarrollo web
+## ♡ Mi stack tecnológico
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
+<br>
+
+### Lenguajes
+
+<img src="https://skillicons.dev/icons?i=python,javascript" />
+
+<br><br>
+
+### Desarrollo Web
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<br><br>
 
 ### Bases de datos
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
 
-### Herramientas y Cloud
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
-</p>
+### Herramientas & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
+
+<br><br>
 
 ### Automatización
 
-<p>
+<img src="https://img.shields.io/badge/n8n-101014?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
 
-![n8n](https://img.shields.io/badge/n8n-101014?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-
-</p>
+</div>
 
 ---
 
-## 🚀 Proyectos destacados
+<div align="center">
+
+# ✦ Lo que estoy construyendo ✦
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Desarrollo Full Stack
+
+Construyendo proyectos para fortalecer mis conocimientos en frontend, backend y lógica de programación.
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Bases de Datos
+
+Trabajando con SQL, MySQL y PostgreSQL para comprender mejor la gestión y organización de datos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud
+
+Explorando servicios de AWS y preparándome para la certificación **AWS Certified Cloud Practitioner**.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Automatización
+
+Experimentando con **n8n**, APIs y workflows para optimizar procesos y conectar diferentes herramientas.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚀 Proyectos destacados
+
+</div>
 
 ### 💰 CostEstimator
 
-Proyecto web enfocado en la estimación de costos mediante una interfaz sencilla y práctica.
+> Proyecto web enfocado en la estimación de costos mediante una interfaz sencilla y funcional.
 
-**Tecnologías:** CSS · Desarrollo Web
+**Stack**
 
-[🔗 Ver repositorio](https://github.com/luisaxcaicedo303-prog/CostEstimator)
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/luisaxcaicedo303-prog/CostEstimator">
+
+<img src="https://img.shields.io/badge/VER%20PROYECTO-8E5AA8?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 ---
 
 ### ⚙️ Automatización de procesos
 
-Proyectos enfocados en la automatización de tareas y procesos mediante herramientas digitales, workflows y conexión entre diferentes servicios.
+Proyectos enfocados en automatización de tareas, workflows y conexión entre diferentes servicios.
 
-**Tecnologías:** n8n · APIs · Automatización
+**Stack**
 
-> Próximamente agregaré más proyectos.
+`n8n` `APIs` `Automatización`
 
----
-
-### 🗄️ Proyectos con bases de datos
-
-Proyectos enfocados en la organización de información, consultas, bases de datos relacionales y lógica para el manejo de datos.
-
-**Tecnologías:** SQL · MySQL · PostgreSQL
-
-> Próximamente agregaré más proyectos.
+> ✦ Próximamente más proyectos.
 
 ---
 
-## 🎓 Educación
+### 🗄️ Proyectos de bases de datos
 
-### Ingeniería de Sistemas
-**Actualmente en curso**
+Prácticas y proyectos enfocados en consultas SQL, relaciones, organización de información y manejo de datos.
 
-Formación enfocada en programación, tecnología, desarrollo de software y sistemas.
+**Stack**
 
-### Técnico en Desarrollo de Software
-**Campuslands · Floridablanca**
+`SQL` `MySQL` `PostgreSQL`
 
-Formación enfocada en desarrollo de software y programación.
-
-### Técnico de Sistemas
-**SENA**
-
-Formación técnica en sistemas y tecnología.
+> ✦ Próximamente más proyectos.
 
 ---
-
-## 💼 Experiencia
-
-Mi experiencia profesional también me ha permitido desarrollar habilidades que actualmente aplico en el área tecnológica.
-
-### 🏥 FOSUNAB
-**Regente de Farmacia Hospitalaria**  
-2025 — 2026
-
-- Gestión de procesos.
-- Control de inventarios.
-- Organización y manejo de información.
-- Atención al detalle.
-- Cumplimiento de procedimientos.
-
-### 💬 Xtendo
-**Agente de Servicio al Cliente**  
-2024 — 2025
-
-- Resolución de solicitudes y PQRS.
-- Atención al usuario.
-- Comunicación efectiva.
-- Resolución de problemas.
-- Gestión de información.
-
-### 📞 Atento
-**Asesora Comercial**  
-2022 — 2023
-
-- Atención al cliente.
-- Comunicación.
-- Ventas.
-- Servicios de telecomunicaciones.
-- Asesoría de soluciones de conectividad.
-
----
-
-## 🧠 Habilidades
-
-`Liderazgo` · `Creatividad` · `Empatía` · `Disciplina`
-
-`Adaptabilidad` · `Paciencia` · `Proactividad` · `Comunicación`
-
----
-
-## 📊 Actividad en GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luisaxcaicedo303-prog&show_icons=true&hide_border=true&title_color=8E5AA8&icon_color=C77DDC&text_color=68616D&bg_color=F8F5FA" height="165"/>
+# 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxcaicedo303-prog&layout=compact&hide_border=true&title_color=8E5AA8&text_color=68616D&bg_color=F8F5FA" height="165"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=luisaxcaicedo303-prog&show_icons=true&hide_border=true&title_color=8E5AA8&icon_color=C77DDC&text_color=6D6575&bg_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaxcaicedo303-prog&layout=compact&hide_border=true&title_color=8E5AA8&text_color=6D6575&bg_color=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🌱 Actualmente aprendiendo
+<div align="center">
 
-```text
-Desarrollo Full Stack
-        ↓
-Bases de Datos
-        ↓
-Cloud Computing
-        ↓
-AWS
-        ↓
-Automatización
+# 🎓 Formación
+
+</div>
+
+<table>
+<tr>
+<td>
+
+### 🎓 Ingeniería de Sistemas
+
+**Actualmente en curso**
+
+</td>
+
+<td>
+
+### 💻 Técnico en Desarrollo de Software
+
+**Campuslands · Floridablanca**
+
+</td>
+
+<td>
+
+### 🖥️ Técnico de Sistemas
+
+**SENA**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 💼 Experiencia
+
+</div>
+
+### 🏥 FOSUNAB
+**Regente de Farmacia Hospitalaria · 2025 — 2026**
+
+Gestión de procesos, control de inventarios, organización de información y cumplimiento de procedimientos.
+
+### 💬 Xtendo
+**Agente de Servicio al Cliente · 2024 — 2025**
+
+Gestión de PQRS, resolución de solicitudes, atención al usuario y comunicación efectiva.
+
+### 📞 Atento
+**Asesora Comercial · 2022 — 2023**
+
+Atención al cliente, ventas, comunicación y asesoría en servicios de telecomunicaciones.
+
+---
+
+<div align="center">
+
+# 🧠 Más allá del código
+
+<br>
+
+<img src="https://img.shields.io/badge/Liderazgo-8E5AA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creatividad-A66BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Empatía-C77DDC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Disciplina-B583D0?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Adaptabilidad-C77DDC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proactividad-8E5AA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Comunicación-A66BBE?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌱 Actualmente aprendiendo
+
+<br>
+
+`AWS`　 `Cloud Computing`　 `Docker`
+
+`JavaScript`　 `PostgreSQL`　 `n8n`
+
+<br>
+
+> **Aprender → construir → equivocarme → mejorar → repetir.**
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ Conectemos ✦
+
+<br>
+
+Si quieres conocer más sobre mi trabajo o colaborar en algún proyecto, puedes encontrarme aquí:
+
+<br>
+
+<a href="mailto:luisaxcaicedo303@gmail.com">
+
+<img src="https://img.shields.io/badge/luisaxcaicedo303@gmail.com-C77DDC?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/luisaxcaicedo303-prog">
+
+<img src="https://img.shields.io/badge/GitHub-19161D?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### `Construyendo mi camino en tecnología, un proyecto a la vez.`
+
+<br>
+
+✦ ✦ ✦
+
+</div>

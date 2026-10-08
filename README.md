@@ -17,11 +17,11 @@
 
 ## ✦ SOBRE MÍ
 
-Soy **Luisa Fernanda Caicedo**, desarrolladora Full Stack Junior en formación, con experiencia previa en atención al cliente, ventas y gestión hospitalaria.
+Soy **Luisa Fernanda Caicedo**, Soy estudiante de Ingeniería de Sistemas y técnica en desarrollo de software, apasionada por la creación de soluciones tecnológicas y el aprendizaje continuo.
 
-Actualmente estoy construyendo mi perfil tecnológico mediante el desarrollo de software, la programación, las bases de datos y el aprendizaje de tecnologías Cloud.
+Me estoy orientando hacia el desarrollo Full Stack, enfocando mi crecimiento en la construcción de aplicaciones, la gestión eficiente de bases de datos y la comprensión de arquitecturas en la nube mediante AWS. A lo largo de mi formación académica y técnica, he trabajado con tecnologías como Python, JavaScript, HTML, CSS, Java, MySQL y PostgreSQL, fortaleciendo mi lógica de programación y resolución de problemas.
 
-Me interesa especialmente crear soluciones que sean **útiles, organizadas, escalables y fáciles de mantener**.
+Actualmente sigo potenciando mi preparación a través de mi educación formal y el fortalecimiento de mi nivel de inglés, con el propósito de colaborar en entornos internacionales y aportar valor en equipos de tecnología dinámicos **.
 
 ---
 

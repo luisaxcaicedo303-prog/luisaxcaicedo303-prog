@@ -43,20 +43,6 @@ Actualmente sigo potenciando mi preparación a través de mi educación formal y
 
 ---
 
-## 🚀 TECNOLOGÍAS
-
-| Área                     | Tecnologías              |
-| ------------------------ | ------------------------ |
-| **Lenguajes**            | Python · JavaScript      |
-| **Frontend**             | HTML · CSS               |
-| **Bases de datos**       | MySQL · PostgreSQL · SQL |
-| **Control de versiones** | Git · GitHub             |
-| **Contenedores**         | Docker                   |
-| **Cloud**                | AWS                      |
-| **Automatización**       | n8n                      |
-
----
-
 # 💻 PROYECTOS
 
 Una parte importante de mi aprendizaje consiste en convertir conceptos de programación en proyectos funcionales.

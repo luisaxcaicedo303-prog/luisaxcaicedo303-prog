@@ -17,7 +17,7 @@
 
 ## ✦ SOBRE MÍ
 
-Soy **Luisa Fernanda Caicedo**, Soy estudiante de Ingeniería de Sistemas y técnica en desarrollo de software, apasionada por la creación de soluciones tecnológicas y el aprendizaje continuo.
+Soy **Luisa Fernanda Caicedo**, estudiante de Ingeniería de Sistemas y técnica en desarrollo de software, apasionada por la creación de soluciones tecnológicas y el aprendizaje continuo.
 
 Me estoy orientando hacia el desarrollo Full Stack, enfocando mi crecimiento en la construcción de aplicaciones, la gestión eficiente de bases de datos y la comprensión de arquitecturas en la nube mediante AWS. A lo largo de mi formación académica y técnica, he trabajado con tecnologías como Python, JavaScript, HTML, CSS, Java, MySQL y PostgreSQL, fortaleciendo mi lógica de programación y resolución de problemas.
 

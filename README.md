@@ -88,20 +88,6 @@ Una parte importante de mi aprendizaje consiste en convertir conceptos de progra
 
 ---
 
-# 🧠 ÁREAS EN LAS QUE ESTOY CRECIENDO
-
-<div align="center">
-
-| 🖥️ Desarrollo |  🗄️ Datos |      ☁️ Cloud      | ⚙️ Automatización |
-| :------------: | :--------: | :----------------: | :---------------: |
-|   Full Stack   |     SQL    |         AWS        |        n8n        |
-|     Python     |    MySQL   |   Cloud Computing  |     Workflows     |
-|   JavaScript   | PostgreSQL | Arquitectura Cloud |      Procesos     |
-
-</div>
-
----
-
 # 📚 APRENDIZAJE ACTUAL
 
 ### 🐍 Python

@@ -40,12 +40,6 @@ Actualmente sigo potenciando mi preparación a través de mi educación formal y
 ### ⚙️ Herramientas
 <img src="https://skillicons.dev/icons?i=git,github,docker&perline=8" />
 <br>
-### ☁️ Cloud & Automatización
-<img src="https://skillicons.dev/icons?i=aws&perline=8" />
-
-<br>
-<img src="https://img.shields.io/badge/n8n-Automation-FF4F8B?style=for-the-badge&logo=n8n&logoColor=white">
-</div>
 
 ---
 
